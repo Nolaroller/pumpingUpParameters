@@ -1,16 +1,16 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
-let myFirstName = ("Dinah")
-let myLastName = ("Custard")
-let myFavoriteCeleb = ("Anita Baker")
-let mySentence = ("Dinah Custard likes singer Anita Baker")
+let myFirstName = "Dinah"
+let myLastName = "Custard"
+let myFavoriteCeleb = "Anita Baker"
+let mySentence = "Dinah Custard likes singer Anita Baker"
 let myLuckyNum = 15
 let myAge = 62
 let myHeight = 60
 let myFavoriteYear = 1980
 let mySum = 5 + 2317 + 36
-let myProduct = 232 * 43 / 2+ 4
+let myProduct = 232 * 43 / 2 + 4
 let myHeightAndAge = 60 + 62
 
 
