@@ -47,7 +47,7 @@ if (typeof myLuckyNum === "undefined") {
 }
 
 if (typeof myAge === "undefined") {
-  myMentalAge = undefined;
+  myAge = undefined;
 }
 
 if (typeof myHeight === "undefined") {
